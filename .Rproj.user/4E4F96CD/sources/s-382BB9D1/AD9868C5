@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566441315902.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AD9868C5",
+    "lastKnownWriteTime" : 1566445814,
+    "last_content_update" : 1566445814044,
+    "path" : "~/courseraRProgramming/AirPollution.R",
+    "project_path" : "AirPollution.R",
+    "properties" : {
+        "cursorPosition" : "29,71",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
